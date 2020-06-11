@@ -2,9 +2,24 @@
   color: yellow;
   background-color: black;
   width: 30%;
-  float: left;
+  float: right;
 }
+body{
+  background-color: rgb(114, 205, 208);
+}
+
 h1{
-  color:rgb(123, 3, 49);
+  color:rgb(155, 14, 68);
   text-align:center ;
+  font-size: 45px;
+}
+
+.bandpic{
+  float: left;
+  width:10%;
+}
+
+.mainpic{
+  float:left ;
+  width: 45%;
 }
