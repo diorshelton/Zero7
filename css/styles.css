@@ -1,6 +1,10 @@
 .shows{
+  color: yellow;
   background-color: black;
   width: 30%;
   float: left;
-  color: yellow;
+}
+h1{
+  color:rgb(123, 3, 49);
+  text-align:center ;
 }
