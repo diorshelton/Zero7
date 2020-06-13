@@ -1,11 +1,11 @@
 .shows{
   color: yellow;
   background-color: black;
-  width: 30%;
   float: right;
-  border:4px yellow;
-  padding:6px;
-  margin:4px;
+  padding: 7px;
+  margin: 4px;
+  width: 35%;
+  border:4px solid yellow;
 }
 
 body{
@@ -28,4 +28,7 @@ h1{
 .mainpic{
   float:left ;
   width: 45%;
+  border: 2px solid black;
 }
+
+
